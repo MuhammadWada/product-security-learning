@@ -1,7 +1,3 @@
-# product-security-learning
-My personal journey to developing my skills as a product security engineer.
-
-
 # Product Security Learning Journey
 
 Welcome to my **Product Security Learning Journey**! This repository documents my progress as I build the skills required to stay relevant as a product security engineer. It includes:
@@ -23,7 +19,7 @@ This learning plan spans **17 weeks** and covers:
 - Full-Stack & Cloud Security
 - Advanced Product Security & Penetration Testing
 
-[Download Full Curriculum (CSV)](link-to-your-curriculum-file)
+[Download Full Curriculum (CSV)](https://github.com/MuhammadWada/product-security-learning/blob/main/curriculum_plan.csv)
 
 ---
 
@@ -45,11 +41,11 @@ Legend:
 
 Each project demonstrates practical skills and security principles:
 
-- [Week 1: CLI Password Manager](link-to-repo-or-folder)
-- [Week 2: Password Manager with Encryption](link-to-repo-or-folder)
-- [Week 3: Simple HTTP Server in C](link-to-repo-or-folder)
-- [Week 5: File Encryption Tool in Rust](link-to-repo-or-folder)
-- [Week 14: Secure Web App with JWT Auth](link-to-repo-or-folder)
+- [Week 1: CLI Password Manager](link-to-repo-or-folder) - TODO
+- [Week 2: Password Manager with Encryption](link-to-repo-or-folder) - TODO
+- [Week 3: Simple HTTP Server in C](link-to-repo-or-folder) - TODO
+- [Week 5: File Encryption Tool in Rust](link-to-repo-or-folder) - TODO
+- [Week 14: Secure Web App with JWT Auth](link-to-repo-or-folder) - TODO
 
 ---
 
@@ -57,9 +53,9 @@ Each project demonstrates practical skills and security principles:
 
 I’m documenting my journey and design decisions on my blog:
 
-- [Week 1: Building a Password Manager](link-to-blog-post)
-- [Week 3: Lessons from Writing a C HTTP Server](link-to-blog-post)
-- [Week 9: Implementing AES Encryption](link-to-blog-post)
+- [Week 1: Building a Password Manager](link-to-blog-post) - TODO
+- [Week 3: Lessons from Writing a C HTTP Server](link-to-blog-post) - TODO
+- [Week 9: Implementing AES Encryption](link-to-blog-post) - TODO
 
 ---
 
