@@ -13,7 +13,9 @@ Understand how software executes on hardware and interacts with the operating sy
 |---|---|---|
 | 7 | Computer architecture: CPU, ISAs (ARM/x86), caches, virtual memory, assembly, linking | Memory and performance analyzer |
 | 8 | Operating systems: processes, threads, scheduling, synchronization, filesystems, system calls | Process monitor; concurrent workers; introduce and fix race conditions |
-| 9 | Linux systems programming: Bash, signals, permissions, sockets, systemd, GDB | Linux telemetry monitoring service (runs under systemd, recovers from failure) |
+| 9 | Linux systems programming: Bash, signals, permissions, sockets, systemd, GDB, tracing (tracepoints, kprobes, eBPF) | Linux telemetry monitoring service (runs under systemd, recovers from failure); introductory eBPF process-exec tracer |
+
+Security work in Month 9: exploit mitigations (ASLR, stack canaries, NX, CFI), how each works, and where each can fail. Includes the eBPF verifier and the tradeoffs between tracepoints, kprobes, LSM hooks, and kernel modules for monitoring.
 
 ## Major project
 

@@ -20,7 +20,7 @@ An integrated **30-month, 10-phase** curriculum (revised 2026-11-04; replaces th
 - Phases 7-9 (Months 19-27): embedded, Rust, GPU, FPGA, hardware security
 - Phase 10 (Months 28-30): principal-level capstone and product security assessment
 
-**Pacing note**: the month numbering assumes 10-15 hours per week (about 1,300-1,950 hours total). My current pace is about 15 minutes per day, so the calendar below is nominal. Phases are gated by acceptance criteria, not by the calendar.
+**Pacing note**: the month numbering assumes 10-15 hours per week (about 1,300-1,950 hours total). I started at 10 hours per week in November 2026 (5 hours over the weekend, plus 30 minutes each weekday morning and 30 minutes each weekday afternoon or evening) and am building to 15 hours per week by the end of 2026. Phases are gated by acceptance criteria, not by the calendar.
 
 [Full curriculum (CSV)](curriculum_plan.csv) is the single source of truth for status. Supporting documents are in [`docs/`](docs/):
 

@@ -15,6 +15,8 @@ Deepen Rust proficiency and establish software assurance practices. Rust is intr
 | 23 | GPU and FPGA introduction: CUDA basics; digital logic and SystemVerilog in simulation | Simple GPU kernel; FSM and a simulated accelerator (no FPGA purchase needed) |
 | 24 | Software assurance: static analysis, fuzzing, property-based testing, fault injection, traceability | Assurance package for the telemetry platform |
 
+Compliance frameworks (NIST SP 800-53 and 800-171, Cyber Survivability) are covered here: translate framework requirements into specific technical controls, trace them to tests, and record the tradeoffs between compliance and engineering velocity.
+
 Formal methods (state machines, invariants, temporal logic, model checking) are introduced after programming and systems fundamentals are solid.
 
 ## Assurance package contents

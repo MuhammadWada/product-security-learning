@@ -15,7 +15,7 @@ Understand how independent software components communicate and cooperate; prereq
 | 11 | Backend and databases: SQL, PostgreSQL, transactions, indexing, FastAPI | Telemetry ingestion service |
 | 12 | Distributed systems: async, queues, retries/timeouts, idempotency, consistency | Distributed telemetry platform (ingestion, processing, retrieval) with injected failures |
 
-Also in this window: introduce Rust (ownership, error handling, testing) via the file encryption utility from the original Week 5; deepened in Phase 8. Introduce Redis and a message broker such as RabbitMQ.
+Also in this window: introduce Rust (ownership, error handling, testing) via the file encryption utility from the original Week 5; deepened in Phase 8. Add constant-time coding exercises (branch-free compare and select, small fixed-size sorts) to learn why secret-dependent timing leaks information and how to avoid it. Introduce Redis and a message broker such as RabbitMQ.
 
 ## Resources
 

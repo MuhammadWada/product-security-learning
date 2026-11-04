@@ -20,6 +20,9 @@ Develop software that interacts directly with hardware, using an STM32 board fir
 - Embedded telemetry acquisition system: STM32 node sending data through a gateway to the AWS platform.
 - Simulated secure boot process (original Week 11).
 - NXP i.MX embedded Linux gateway as a follow-on if hardware setup is time-consuming.
+- Defensive firmware review of my own image: extract the filesystem, inventory services and configs, find exposed keys and enabled debug interfaces (UART/JTAG), and write up findings with fixes. Tools: binwalk, Ghidra.
+- OTA update threat model and hardening of the embedded Linux gateway: key storage and lifecycle, kernel configuration, LSM, least privilege, and the balance between hardening and field diagnostics.
+- Overview of how the Android trust model differs from embedded Linux.
 
 ## Resources
 
