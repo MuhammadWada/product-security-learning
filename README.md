@@ -1,76 +1,83 @@
 # Product Security Learning Journey
 
-Welcome to my **Product Security Learning Journey**! This repository documents my progress as I build the skills required to stay relevant as a product security engineer. It includes:
+This repository documents my progress toward becoming a hands-on principal engineer who can design, implement, secure, verify, and deploy complex software-intensive systems. Product security is a continuous discipline embedded in every phase rather than a separate track.
 
-- 📚 **Curriculum Roadmap**
-- ✅ **Progress Tracker**
-- 💻 **Projects**
-- 📝 **Blog Posts**
+It includes:
 
----
-
-## 📚 Curriculum Overview
-
-This learning plan spans **17 weeks** and covers:
-
-- Programming Foundations (Python, C, Rust, Go)
-- Secure Coding & Web Security
-- Embedded Systems & Hardware Security
-- Full-Stack & Cloud Security
-- Advanced Product Security & Penetration Testing
-
-[Download Full Curriculum (CSV)](https://github.com/MuhammadWada/product-security-learning/blob/main/curriculum_plan.csv)
+- Curriculum roadmap
+- Progress tracker
+- Projects, each in its own directory
+- Blog posts
 
 ---
 
-## ✅ Progress Tracker
+## Curriculum Overview
 
-| Week | Topic | Status |
-|------|-------|--------|
-| 1 | Python Basics | 🔄 In Progress |
-| 2 | Python Advanced | ⬜ Not Started |
-| 3 | C Basics | ⬜ Not Started |
-| ... | ... | ... |
+An integrated **30-month, 10-phase** curriculum (revised 2026-11-04; replaces the original 17-week plan, preserved in `archive/curriculum_plan_v1_17week.csv`).
 
-Legend:  
-⬜ Not Started | 🔄 In Progress | ✅ Completed
+- Phases 1-3 (Months 1-9): Python, C/C++, algorithms, Linux, computer architecture
+- Phases 4-6 (Months 10-18): networking, distributed systems, full stack, cloud and DevOps
+- Phases 7-9 (Months 19-27): embedded, Rust, GPU, FPGA, hardware security
+- Phase 10 (Months 28-30): principal-level capstone and product security assessment
 
----
+**Pacing note**: the month numbering assumes 10-15 hours per week (about 1,300-1,950 hours total). My current pace is about 15 minutes per day, so the calendar below is nominal. Phases are gated by acceptance criteria, not by the calendar.
 
-## 💻 Projects
+[Full curriculum (CSV)](curriculum_plan.csv) is the single source of truth for status. Supporting documents are in [`docs/`](docs/):
 
-Each project demonstrates practical skills and security principles:
-
-- [Week 1: CLI Password Manager](link-to-repo-or-folder) - TODO
-- [Week 2: Password Manager with Encryption](link-to-repo-or-folder) - TODO
-- [Week 3: Simple HTTP Server in C](link-to-repo-or-folder) - TODO
-- [Week 5: File Encryption Tool in Rust](link-to-repo-or-folder) - TODO
-- [Week 14: Secure Web App with JWT Auth](link-to-repo-or-folder) - TODO
+- [Rubric](docs/rubric.md)
+- [AI usage rules](docs/ai-usage-rules.md)
+- [Project template](docs/project-template.md)
+- [Capstone: DECTP](docs/capstone-dectp.md)
 
 ---
 
-## 📝 Blog Posts
+## Progress Tracker
 
-I’m documenting my journey and design decisions on my blog:
+| Phase | Months | Focus | Status |
+|---|---|---|---|
+| [1](phases/phase-01-python-software-foundations/) | 1-3 | Python and software foundations | In Progress |
+| [2](phases/phase-02-c-cpp-algorithms/) | 4-6 | C, C++, algorithms | Not Started |
+| [3](phases/phase-03-linux-computer-architecture/) | 7-9 | Linux and computer architecture | Not Started |
+| [4](phases/phase-04-networking-distributed-systems/) | 10-12 | Networking and distributed systems | Not Started |
+| [5](phases/phase-05-fullstack-architecture/) | 13-15 | Full stack and architecture | Not Started |
+| [6](phases/phase-06-cloud-devops/) | 16-18 | Cloud and DevOps | Not Started |
+| [7](phases/phase-07-embedded-realtime/) | 19-21 | Embedded and real-time | Not Started |
+| [8](phases/phase-08-rust-advanced-systems/) | 22-24 | Rust and advanced systems | Not Started |
+| [9](phases/phase-09-gpu-fpga-hardware-security/) | 25-27 | GPU, FPGA, hardware security | Not Started |
+| [10](phases/phase-10-capstone-security-assessment/) | 28-30 | Capstone and security assessment | Not Started |
 
-- [Week 1: Building a Password Manager](link-to-blog-post) - TODO
-- [Week 3: Lessons from Writing a C HTTP Server](link-to-blog-post) - TODO
-- [Week 9: Implementing AES Encryption](link-to-blog-post) - TODO
+Legend: Not Started | In Progress | Completed
 
 ---
 
-## 🎯 Goals
+## Projects
 
-- Build a strong foundation in secure software development.
-- Create a portfolio of security-focused projects.
-- Share insights and lessons learned through blogging.
+Each project is a separate directory with source, tests, requirements, architecture notes, a security assessment, and lessons learned. They feed one evolving capstone, the Distributed Edge Computing and Telemetry Platform.
+
+- [Phase 1: Telemetry Analyzer](phases/phase-01-python-software-foundations/01-telemetry-analyzer/) - In Progress (began as a log parser)
+
+Projects for later phases are added as each starts.
 
 ---
 
-## 📬 Feedback & Collaboration
+## Blog Posts
 
-I welcome feedback and collaboration!  
-Feel free to open issues or connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-wada).
+Design decisions and lessons are documented in [learning-log.md](learning-log.md) and the per-project session notes. Blog posts will be linked here as they are published.
+
+---
+
+## Goals
+
+- Build strong foundations in software engineering, then specialize.
+- Make security a continuous engineering discipline.
+- Produce a portfolio of documented, tested projects.
+- Learn to supervise AI coding agents without surrendering engineering judgment.
+
+---
+
+## Feedback & Collaboration
+
+I welcome feedback and collaboration. Open an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-wada).
 
 ---
 

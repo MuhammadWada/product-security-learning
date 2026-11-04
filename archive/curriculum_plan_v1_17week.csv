@@ -1,0 +1,18 @@
+Week,Topic,Resource,Relevant Lessons/Sections,Skills Acquired,Project,Estimated Hours,Status
+1,"Python Basics: Variables, Loops, File I/O",Automate the Boring Stuff with Python,"Ch. 1–3 (Basics, Flow Control, Functions)","File I/O, loops, basic syntax",CLI Password Manager (basic file read/write),12,Not Started
+2,"Python Advanced: Functions, Error Handling","Automate the Boring Stuff, Python Playground","Ch. 4–6 (Lists, Dictionaries, Error Handling)","Functions, error handling, modular code",Add hashing & encryption to Password Manager,12,Not Started
+3,"C Basics: Syntax, Pointers","Effective C, Write Great Code Vol 1",Effective C: Ch. 1–3; WGC Vol 1: Ch. 2–4,"Pointers, memory allocation, basic C syntax",Build simple HTTP server,12,Not Started
+4,C Memory Safety: Buffer Overflow Prevention,"Effective C, Bare Metal C",Effective C: Ch. 6–8; Bare Metal C: Ch. 3,"Memory safety, secure input handling",Harden HTTP server against buffer overflow,12,Not Started
+5,"Rust Fundamentals: Ownership, Borrowing","The Rust Programming Language, Rust for Rustaceans",Rust Book: Ch. 4–6; Rustaceans: Ch. 1–2,"Ownership model, lifetimes, safe memory",File encryption tool (AES),12,Not Started
+6,"Go Basics: Concurrency, REST APIs",freeCodeCamp Go,"Go Basics, Concurrency, HTTP Servers","Concurrency, API design, secure endpoints",Build secure REST API in Go,12,Not Started
+7,OWASP Top 10: Web Vulnerabilities,OWASP Docs,OWASP Top 10 Guide,"Web security principles, vulnerability detection",Create intentionally vulnerable web app,12,Not Started
+8,Secure SDLC & Threat Modeling,Microsoft SDL Docs,SDL Threat Modeling Guide,"Threat modeling, secure design principles",Patch vulnerabilities & document threat model,12,Not Started
+9,Cryptography Basics,Serious Cryptography,"Ch. 1–4, 7","AES, key management, encryption best practices",Implement AES in Python & Rust,12,Not Started
+10,Secure APIs & JWT Authentication,freeCodeCamp,"API Security, JWT Auth","API hardening, token-based auth",Harden REST API with JWT & rate limiting,12,Not Started
+11,Embedded Systems Fundamentals,Coursera Embedded Systems,Week 1–3 Modules,"Embedded architecture, secure boot concepts",Simulate secure boot process in C,12,Not Started
+12,FPGA Refresher,YouTube FPGA Tutorials,FPGA Basics Playlist,"VHDL/Verilog basics, secure protocol design",Implement secure protocol on FPGA,12,Not Started
+13,Hardware Attack Vectors,YouTube Side-Channel Attacks,Side-Channel Attack Overview,"Hardware security, attack mitigation",Document case study on hardware security,12,Not Started
+14,Full-Stack Basics,freeCodeCamp Full-Stack,"HTML/CSS, JS, Node.js, Express","Web architecture, secure coding",Build secure web app with login & JWT auth,12,Not Started
+15,Containers & Kubernetes,Udemy Docker/Kubernetes,"Docker Basics, Kubernetes Deployment","Container security, orchestration",Deploy web app securely in Docker,12,Not Started
+16,Cloud Security Fundamentals,AWS Training,AWS Security Essentials,"IAM, EC2 hardening, cloud security",Harden EC2 instance & write security guide,12,Not Started
+17,Penetration Testing,Udemy Ethical Hacking,"Recon, Exploitation, Reporting","Pen testing methodology, vulnerability exploitation",Perform pen test on your web app & write report,12,Not Started
